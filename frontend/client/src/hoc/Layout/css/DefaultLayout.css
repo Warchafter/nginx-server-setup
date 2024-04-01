@@ -1,0 +1,33 @@
+.layout-lg {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--shadow-color);
+}
+
+.layout-navbar {
+    background-color: var(--accent-color);
+    box-shadow: 1px 0px 1px 0px white;
+    z-index: 1;
+}
+
+.layout-main-content {
+    padding: 20px;
+}
+
+.layout-left {
+    display: flex;
+    min-width: 236px;
+    height: 100vh;
+}
+
+.layout-right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    border-radius: 2px 0px 0px 5px;
+    background-color: var(--background-color); /* Use the variable directly for background-color */
+    box-shadow: 1px 0px 0px 0px inset var(--border-color); /* Use the variable directly for rgba with transparency */
+    /* border-left: 1px solid var(--accent-color); */
+}

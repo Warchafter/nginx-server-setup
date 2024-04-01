@@ -1,0 +1,55 @@
+.dayBarWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.mdAnimeModalWrapper {
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--accent-color);
+    margin: 12px 8px 12px 8px;
+    width: 250px;
+    height: 400px;
+}
+
+.animeModalLayout {
+    border-radius: 18px;
+    border-style: hidden;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.animeModalLayoutTop {
+    height: 250px;
+    overflow: hidden;
+}
+
+.animeModalLayoutBottom {
+    height: 150px;
+}
+
+.mdAnimeModalImgWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.mdAnimeModalImg {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+
+.mdAnimeModalTitle {
+    display: flex;
+    justify-content: center;
+    padding: 0 5px 0 5px;
+    color: var(--text-color);
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.6;
+}

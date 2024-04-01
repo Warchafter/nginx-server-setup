@@ -1,0 +1,25 @@
+.layout-lg {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--shadow-color);
+}
+
+.layout-navbar {
+
+}
+
+.layout-main-content {
+
+}
+
+.layout-right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    border-radius: 2px 0px 0px 5px;
+    background-color: var(--background-color);
+    box-shadow: -2px 0px 0px 0px var(--accent-color);
+    /* border-left: 1px solid var(--accent-color); */
+}

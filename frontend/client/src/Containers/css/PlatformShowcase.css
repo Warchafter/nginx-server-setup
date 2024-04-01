@@ -1,0 +1,165 @@
+.container-platforms {
+    height: 100%;
+    width: 100%;
+}
+
+.transition-block-skill-top {
+    height: 200px;
+    width: auto;
+    background-image: linear-gradient(rgb(30, 23, 39),
+    rgb(30, 23, 39))
+}
+
+.transition-block-4 {
+    height: 200px;
+    width: auto;
+    background-image: linear-gradient(rgb(30, 23, 39),
+    rgb(25, 19, 32),
+    rgb(23, 18, 29),
+    rgb(23, 18, 29),
+    #12121a,
+    #12121a)
+}
+
+.grid-skill {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 250px 1fr;
+    grid-template-rows: repeat(3, 225px);
+    grid-column-gap: 0px;
+    grid-row-gap: 25px;
+    background: rgba(13,17,23,255);
+}
+
+.div1 { grid-area: 1 / 1 / 6 / 6; }
+
+.middle-colum {
+    margin-left: 25%;
+    width: 50%;
+}
+
+.skill-logo {
+    width: 200px;
+    height: 200px;
+}
+
+.timeline {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.timeline::after{
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: rgb(75, 36, 73);
+    top: 0px;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.container-1 {
+    padding: 10px 40px;
+    position: relative;
+    display: flex;
+    background-color: rgb(52, 43, 78);
+    margin-left: 125px;
+}
+
+.container-1-child {
+    
+}
+
+.container-1::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -141px;
+    background-color: white;
+    border: 4px solid #5c5c5c;
+    top: -5px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.left {
+    left: 0;
+    border-radius: 25px 0px 25px 25px;
+    box-shadow: -10px 10px;
+}
+
+.right {
+    left: -25;
+    border-radius: 0px 25px 25px 25px;
+    margin-left: 0;
+    margin-right: 125px;
+    box-shadow: 10px 10px;
+}
+
+.left::before {
+    content: '';
+    height: 0;
+    position: absolute;
+    top: 0px;
+    width: 0;
+    z-index: 1;
+    right: -10px;
+    border: medium solid rgb(65, 48, 48);
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent rgb(52, 43, 78);
+}
+
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 0px;
+    width: 0;
+    z-index: 1;
+    left: -10px;
+    border: medium solid rgb(90, 44, 44);
+    border-width: 10px 10px 10px 0;
+    border-color: transparent rgb(52, 43, 78) transparent transparent;
+}
+
+.right::after {
+    left: -142px;
+}
+
+.content {
+    padding: 20px 30px;
+    background-color: rgb(56, 39, 39);
+    position: relative;
+    border-radius: 6px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .timeline::after {
+        left: 31px;
+    }
+
+    .container-1 {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+    .container-1::before {
+        left: 60px;
+        border: medium solid white;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent white transparent transparent;
+    }
+
+    .left::after, .right::after {
+        left: 15px;
+    }
+
+    .right {
+        left: 0%;
+    }
+}

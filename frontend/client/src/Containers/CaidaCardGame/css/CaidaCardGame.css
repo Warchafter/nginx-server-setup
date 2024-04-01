@@ -1,0 +1,87 @@
+.caida-main-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+.caida-main-title {
+    color: white;
+}
+
+.caida-main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    width: auto;
+    height: auto;
+}
+
+.caida-main-content__left {}
+
+.caida-main-content__right {}
+.caida-main-content__right__top {
+    display: flex;
+}
+.caida-main-content__right__middle {}
+.caida-main-content__right__bottom {}
+
+.caida-history-sidebar-wrapper {
+    display: flex;
+    background-color: #d37306;
+    width: 100px;
+    height: 750px;
+    padding: 10px;
+}
+
+.caida-history-sidebar {
+    background-color: rgba(128, 128, 128, 0.562);
+    border-color: rgb(95, 95, 95);
+    border-width: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100%;
+    width: 100%;
+}
+
+.caida-main-gamearea {
+    display: flex;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+}
+
+.caida-player-grid {
+    flex: .6;
+    margin: 0 10px 0 10px;
+}
+.player-item1 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.caida-grid-player-item {
+    background-color: navy;
+}
+
+.caida-card-gridtable {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.caida-card-gridtable-item {
+    margin: 5px;
+    border-radius: 5px;
+    flex: 0 0 22.5%;
+    height: 140px;
+    width: 100px;
+    border: 2px solid #d37306;
+    box-sizing: border-box;
+    background-color: transparent;
+    text-align: center;
+    box-sizing: border-box;
+}

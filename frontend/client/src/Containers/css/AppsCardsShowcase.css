@@ -1,0 +1,64 @@
+.apps-cards-showcase__wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.apps-cards-showcase__content {
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.apps-cards-showcase__content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Adjust the opacity as needed */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.apps-cards-showcase__content:hover::before {
+    opacity: 1;
+}
+
+.app-card_content {
+    display: flex;
+}
+
+
+.apps-cards-showcase-name {
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 60px;
+}
+.apps-cards-showcase-name:hover {
+    margin-top: 0px;
+}
+
+.apps-cards-showcase__item {
+    margin-left: 20px;
+}
+
+
+.trigger {
+}
+
+/* Define styles for the target element */
+.target {
+    background-color: rgba(18, 17, 19, 0.493);
+    margin-top: -60px;
+    z-index: 3;
+    transition: margin-top 0.3s ease;
+}
+
+/* Define styles for the target element when hovered */
+.trigger:hover + .target {
+    transform: scale(1.1); /* Example: scale up when hovered */
+    padding: 20px; /* Adjust padding on hover */
+}

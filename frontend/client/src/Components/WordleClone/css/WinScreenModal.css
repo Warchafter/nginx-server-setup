@@ -1,0 +1,43 @@
+.wordle-win-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(23, 61, 23);
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    width: 450px;
+}
+
+.win-title {
+    color: white;
+}
+.win-word {
+    color: white;
+}
+.win-description {
+    color: white;
+}
+
+.win-button-row {
+    padding-top: 20px;
+    flex-direction: row;
+}
+
+.win-continue-btn {
+    background-color: green;
+    color: white;
+}
+
+.win-tryagain-btn {
+    background-color: rgb(205, 223, 50);
+    color: rgb(29, 29, 29);
+}
+
+.win-tryagain-btn:hover {
+    color: rgb(252, 252, 252);
+    background-color: rgba(175, 190, 41, 0.466);
+}

@@ -1,0 +1,33 @@
+.vertical-menu {
+}
+
+.category-header {
+    color: rgba(240, 248, 255, 0.432);
+    transition: opacity 0.3s ease-in 0.6s;
+}
+.category-header:hover {
+    cursor: pointer;
+}
+
+.category-items {
+    list-style: none;
+    background-color: transparent;
+    transition-property: background-color;
+    transition-duration: opacity 0.3s ease-in 0.6s;
+}
+.category-items:hover {
+    cursor: pointer;
+}
+
+.hovered {
+    background-color: rgba(240, 248, 255, 0.185);
+    list-style: none;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}

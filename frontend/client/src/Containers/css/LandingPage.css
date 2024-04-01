@@ -1,0 +1,14 @@
+.page-container {
+    position: relative;
+    min-height: 100vh;
+    background-color: rgba(13,17,23,255);
+}
+
+.content-wrapper{
+    padding-bottom: 5.5rem;
+}
+
+.footer-position {
+    position: absolute;
+    bottom: 0;
+}

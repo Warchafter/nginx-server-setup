@@ -1,0 +1,41 @@
+.deck-display-wrapper {
+    position: fixed;
+    padding-left: 50px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.deck-display-content {
+    align-content: space-between;
+}
+
+.caida-frontcard-wrapper {
+    position: relative;
+    display: inline-flex;
+    margin-left: -25px;
+    flex-grow: 1;
+}
+
+.caida-frontcard-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: whitesmoke;
+    background-color: orange;
+    width: 50px;
+    height: 70px;
+    transition-property: all;
+    transition-duration: 200ms;
+}
+
+
+.caida-frontcard-content:hover {
+    background-color: red;
+    height: 140px;
+    width: 100px;
+    margin-bottom: 70px;
+}

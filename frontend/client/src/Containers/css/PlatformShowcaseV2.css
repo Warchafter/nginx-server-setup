@@ -1,0 +1,38 @@
+.platform-display-wrapper {
+    display: flex;
+    align-content: center;
+}
+
+.platform-card-wrapper {
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(66, 66, 66);
+    max-width: 550px;
+    max-height: 250px;
+    background-color: rgba(13,17,23,255);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.platform-logo {
+    width: 150px;
+    height: 150px;
+}
+
+.platform-description {
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.platform-card {
+
+}
+
+
+.platorm-line {
+    width: 5px;
+    background-color: aliceblue;
+}

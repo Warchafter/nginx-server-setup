@@ -1,0 +1,12 @@
+.caida-team-point-display__wrapper {
+    background-color: rgba(205, 92, 92, 0.5);
+}
+
+.caida-team-point-display__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    width: 200px;
+    height: 75px;
+}
