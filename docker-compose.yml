@@ -1,0 +1,41 @@
+version: "3.7"
+
+services:
+  backend:
+    volumes:
+      - static:/static
+    env_file:
+      - .env
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+  client:
+    build:
+      context: ./frontend/client
+    volumes:
+      - client:/app/build
+  frontend:
+    env_file:
+      - .env
+    build:
+      context: ./frontend
+    volumes:
+      - frontend:/app/build
+  nginx:
+    build:
+      context: ./nginx
+    volumes:
+      - static:/static
+      - frontend:/cat/www/frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+      - frontend
+      - client
+
+volumes:
+  static:
+  frontend:
+  client:

@@ -30,7 +30,15 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
+
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost',
+    'http://127.0.0.1',
+    'http://0.0.0.0',
+]
+
+CORS_ALLOWED_CREDENTIALS = True
 
 
 # Application definition
@@ -170,11 +178,3 @@ EMAIL_HOST_PASSWORD = os.getenv('SYS_EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS = True
 
 AUTH_USER_MODEL = "users.UserAccount"
-
-SPECTACULAR_SETTINGS = {
-    'TITLE': 'Entertainmnent Advisor API',
-    'DESCRIPTION': 'Entertainment advisor api documentation test',
-    'VERSION': '0.0.1',
-    'SERVE_INCLUDE_SCHEMA': False,
-    # OTHER SETTINGS
-}

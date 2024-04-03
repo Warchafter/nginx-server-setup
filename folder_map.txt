@@ -1,0 +1,440 @@
+Folder PATH listing for volume 1390604
+Volume serial number is 5A0D-758A
+C:.
+ÃÄÄÄbackend
+³   ÃÄÄÄcore
+³   ³   ÃÄÄÄmanagement
+³   ³   ³   ÀÄÄÄcommands
+³   ³   ÀÄÄÄmigrations
+³   ÃÄÄÄentertainment_advisor
+³   ÃÄÄÄjikananime
+³   ³   ÀÄÄÄmigrations
+³   ÃÄÄÄtodo
+³   ³   ÀÄÄÄmigrations
+³   ÃÄÄÄusers
+³   ³   ÀÄÄÄmigrations
+³   ÀÄÄÄvenv
+³       ÃÄÄÄInclude
+³       ÃÄÄÄLib
+³       ³   ÀÄÄÄsite-packages
+³       ³       ÃÄÄÄpip
+³       ³       ³   ÃÄÄÄ_internal
+³       ³       ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcommands
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistributions
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄindex
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄlocations
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmodels
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄnetwork
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄoperations
+³       ³       ³   ³   ³   ÃÄÄÄbuild
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄinstall
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄreq
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolution
+³       ³       ³   ³   ³   ÃÄÄÄlegacy
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄutils
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄvcs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_vendor
+³       ³       ³   ³   ÃÄÄÄcachecontrol
+³       ³       ³   ³   ³   ÃÄÄÄcaches
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcertifi
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄchardet
+³       ³       ³   ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcolorama
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistlib
+³       ³       ³   ³   ³   ÃÄÄÄ_backport
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄhtml5lib
+³       ³       ³   ³   ³   ÃÄÄÄfilters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄtreeadapters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄtreebuilders
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄtreewalkers
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄ_trie
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄidna
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmsgpack
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpackaging
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpep517
+³       ³       ³   ³   ³   ÃÄÄÄin_process
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpkg_resources
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄplatformdirs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄprogress
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpygments
+³       ³       ³   ³   ³   ÃÄÄÄfilters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄformatters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄlexers
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄstyles
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpyparsing
+³       ³       ³   ³   ³   ÃÄÄÄdiagram
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrequests
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ÃÄÄÄcompat
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrich
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtenacity
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtomli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄurllib3
+³       ³       ³   ³   ³   ÃÄÄÄcontrib
+³       ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄpackages
+³       ³       ³   ³   ³   ³   ÃÄÄÄbackports
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄutil
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄwebencodings
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄpip-22.0.4.dist-info
+³       ³       ÃÄÄÄpkg_resources
+³       ³       ³   ÃÄÄÄextern
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄtests
+³       ³       ³   ³   ÀÄÄÄdata
+³       ³       ³   ³       ÀÄÄÄmy-test-package-source
+³       ³       ³   ³           ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_vendor
+³       ³       ³   ³   ÃÄÄÄpackaging
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄsetuptools
+³       ³       ³   ÃÄÄÄcommand
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄextern
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_distutils
+³       ³       ³   ³   ÃÄÄÄcommand
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_vendor
+³       ³       ³   ³   ÃÄÄÄmore_itertools
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpackaging
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄsetuptools-58.1.0.dist-info
+³       ³       ÀÄÄÄ_distutils_hack
+³       ³           ÀÄÄÄ__pycache__
+³       ÀÄÄÄScripts
+ÀÄÄÄfrontend
+    ÃÄÄÄclient
+    ³   ÃÄÄÄpublic
+    ³   ÀÄÄÄsrc
+    ³       ÃÄÄÄassets
+    ³       ³   ÀÄÄÄimages
+    ³       ÃÄÄÄComponents
+    ³       ³   ÃÄÄÄCaidaCardGame
+    ³       ³   ³   ÀÄÄÄcss
+    ³       ³   ÃÄÄÄCards
+    ³       ³   ³   ÀÄÄÄcss
+    ³       ³   ÃÄÄÄcss
+    ³       ³   ÀÄÄÄWordleClone
+    ³       ³       ÀÄÄÄcss
+    ³       ÃÄÄÄconfig
+    ³       ÃÄÄÄContainers
+    ³       ³   ÃÄÄÄCaidaCardGame
+    ³       ³   ³   ÀÄÄÄcss
+    ³       ³   ÃÄÄÄComponentShowcase
+    ³       ³   ³   ÀÄÄÄcss
+    ³       ³   ÃÄÄÄcss
+    ³       ³   ÀÄÄÄWordleClone
+    ³       ³       ÀÄÄÄcss
+    ³       ÃÄÄÄfeatures
+    ³       ÃÄÄÄhoc
+    ³       ³   ÀÄÄÄLayout
+    ³       ³       ÀÄÄÄcss
+    ³       ÃÄÄÄhooks
+    ³       ÀÄÄÄshared
+    ÃÄÄÄnginx
+    ³   ÃÄÄÄsites-available
+    ³   ÀÄÄÄsites-enabled
+    ÃÄÄÄnode_modules
+    ³   ÃÄÄÄ.bin
+    ³   ÃÄÄÄabbrev
+    ³   ÃÄÄÄaccepts
+    ³   ÃÄÄÄansi-styles
+    ³   ÃÄÄÄanymatch
+    ³   ÃÄÄÄarray-flatten
+    ³   ÃÄÄÄbalanced-match
+    ³   ³   ÀÄÄÄ.github
+    ³   ÃÄÄÄbinary-extensions
+    ³   ÃÄÄÄbody-parser
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄtypes
+    ³   ÃÄÄÄbrace-expansion
+    ³   ÃÄÄÄbraces
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄbytes
+    ³   ÃÄÄÄcall-bind
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄchalk
+    ³   ³   ÃÄÄÄnode_modules
+    ³   ³   ³   ÃÄÄÄhas-flag
+    ³   ³   ³   ÀÄÄÄsupports-color
+    ³   ³   ÀÄÄÄsource
+    ³   ÃÄÄÄchokidar
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ÀÄÄÄtypes
+    ³   ÃÄÄÄcolor-convert
+    ³   ÃÄÄÄcolor-name
+    ³   ÃÄÄÄcommander
+    ³   ³   ÀÄÄÄtypings
+    ³   ÃÄÄÄconcat-map
+    ³   ³   ÃÄÄÄexample
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄcontent-disposition
+    ³   ÃÄÄÄcontent-type
+    ³   ÃÄÄÄcookie
+    ³   ÃÄÄÄcookie-parser
+    ³   ³   ÀÄÄÄnode_modules
+    ³   ³       ÀÄÄÄcookie
+    ³   ÃÄÄÄcookie-signature
+    ³   ÃÄÄÄdata-uri-to-buffer
+    ³   ³   ÃÄÄÄdist
+    ³   ³   ÀÄÄÄsrc
+    ³   ÃÄÄÄdebug
+    ³   ³   ÀÄÄÄsrc
+    ³   ÃÄÄÄdefine-data-property
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄdepd
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÀÄÄÄbrowser
+    ³   ÃÄÄÄdestroy
+    ³   ÃÄÄÄdotenv
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄee-first
+    ³   ÃÄÄÄencodeurl
+    ³   ÃÄÄÄescape-html
+    ³   ÃÄÄÄetag
+    ³   ÃÄÄÄexpress
+    ³   ³   ÀÄÄÄlib
+    ³   ³       ÃÄÄÄmiddleware
+    ³   ³       ÀÄÄÄrouter
+    ³   ÃÄÄÄfetch-blob
+    ³   ÃÄÄÄfill-range
+    ³   ÃÄÄÄfinalhandler
+    ³   ÃÄÄÄformdata-polyfill
+    ³   ÃÄÄÄforwarded
+    ³   ÃÄÄÄfresh
+    ³   ÃÄÄÄfunction-bind
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄget-intrinsic
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄglob-parent
+    ³   ÃÄÄÄgopd
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄhas-flag
+    ³   ÃÄÄÄhas-property-descriptors
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄhas-proto
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄhas-symbols
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ³       ÀÄÄÄshams
+    ³   ÃÄÄÄhasown
+    ³   ³   ÀÄÄÄ.github
+    ³   ÃÄÄÄhttp-errors
+    ³   ÃÄÄÄiconv-lite
+    ³   ³   ÃÄÄÄencodings
+    ³   ³   ³   ÀÄÄÄtables
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄignore-by-default
+    ³   ÃÄÄÄinherits
+    ³   ÃÄÄÄipaddr.js
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄis-binary-path
+    ³   ÃÄÄÄis-extglob
+    ³   ÃÄÄÄis-glob
+    ³   ÃÄÄÄis-number
+    ³   ÃÄÄÄlru-cache
+    ³   ÃÄÄÄmedia-typer
+    ³   ÃÄÄÄmerge-descriptors
+    ³   ÃÄÄÄmethods
+    ³   ÃÄÄÄmime
+    ³   ³   ÀÄÄÄsrc
+    ³   ÃÄÄÄmime-db
+    ³   ÃÄÄÄmime-types
+    ³   ÃÄÄÄminimatch
+    ³   ÃÄÄÄms
+    ³   ÃÄÄÄnegotiator
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄnginx
+    ³   ³   ÀÄÄÄ.github
+    ³   ³       ÃÄÄÄISSUE_TEMPLATE
+    ³   ³       ÀÄÄÄworkflows
+    ³   ÃÄÄÄnode-domexception
+    ³   ³   ÀÄÄÄ.history
+    ³   ÃÄÄÄnode-fetch
+    ³   ³   ÃÄÄÄ@types
+    ³   ³   ÀÄÄÄsrc
+    ³   ³       ÃÄÄÄerrors
+    ³   ³       ÀÄÄÄutils
+    ³   ÃÄÄÄnodemon
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄdoc
+    ³   ³   ³   ÀÄÄÄcli
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÃÄÄÄcli
+    ³   ³   ³   ÃÄÄÄconfig
+    ³   ³   ³   ÃÄÄÄhelp
+    ³   ³   ³   ÃÄÄÄmonitor
+    ³   ³   ³   ÃÄÄÄrules
+    ³   ³   ³   ÀÄÄÄutils
+    ³   ³   ÀÄÄÄnode_modules
+    ³   ³       ÃÄÄÄdebug
+    ³   ³       ³   ÀÄÄÄsrc
+    ³   ³       ÀÄÄÄms
+    ³   ÃÄÄÄnopt
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄexamples
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄnormalize-path
+    ³   ÃÄÄÄobject-inspect
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÃÄÄÄexample
+    ³   ³   ÀÄÄÄtest
+    ³   ³       ÀÄÄÄbrowser
+    ³   ÃÄÄÄon-finished
+    ³   ÃÄÄÄparseurl
+    ³   ÃÄÄÄpath
+    ³   ÃÄÄÄpath-to-regexp
+    ³   ÃÄÄÄpicomatch
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄprocess
+    ³   ÃÄÄÄproxy-addr
+    ³   ÃÄÄÄpstree.remy
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ÀÄÄÄtests
+    ³   ³       ÀÄÄÄfixtures
+    ³   ÃÄÄÄqs
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÃÄÄÄdist
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄrange-parser
+    ³   ÃÄÄÄraw-body
+    ³   ÃÄÄÄreaddirp
+    ³   ÃÄÄÄsafe-buffer
+    ³   ÃÄÄÄsafer-buffer
+    ³   ÃÄÄÄsemver
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄclasses
+    ³   ³   ÃÄÄÄfunctions
+    ³   ³   ÃÄÄÄinternal
+    ³   ³   ÀÄÄÄranges
+    ³   ÃÄÄÄsend
+    ³   ³   ÀÄÄÄnode_modules
+    ³   ³       ÀÄÄÄms
+    ³   ÃÄÄÄserve-static
+    ³   ÃÄÄÄset-function-length
+    ³   ³   ÀÄÄÄ.github
+    ³   ÃÄÄÄsetprototypeof
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄside-channel
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄsimple-update-notifier
+    ³   ³   ÃÄÄÄbuild
+    ³   ³   ÀÄÄÄsrc
+    ³   ÃÄÄÄstatuses
+    ³   ÃÄÄÄsupports-color
+    ³   ÃÄÄÄto-regex-range
+    ³   ÃÄÄÄtoidentifier
+    ³   ÃÄÄÄtouch
+    ³   ³   ÀÄÄÄbin
+    ³   ÃÄÄÄtype-is
+    ³   ÃÄÄÄundefsafe
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ³   ÀÄÄÄworkflows
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄunpipe
+    ³   ÃÄÄÄutil
+    ³   ³   ÃÄÄÄnode_modules
+    ³   ³   ³   ÀÄÄÄinherits
+    ³   ³   ÀÄÄÄsupport
+    ³   ÃÄÄÄutils-merge
+    ³   ÃÄÄÄvary
+    ³   ÃÄÄÄweb-streams-polyfill
+    ³   ³   ÃÄÄÄdist
+    ³   ³   ³   ÀÄÄÄtypes
+    ³   ³   ³       ÀÄÄÄts3.6
+    ³   ³   ÃÄÄÄes2018
+    ³   ³   ÃÄÄÄes6
+    ³   ³   ÀÄÄÄponyfill
+    ³   ³       ÃÄÄÄes2018
+    ³   ³       ÀÄÄÄes6
+    ³   ÀÄÄÄyallist
+    ÀÄÄÄroutes
+        ÃÄÄÄauth
+        ÃÄÄÄjikanAnime
+        ÃÄÄÄtodo
+        ÃÄÄÄui
+        ÀÄÄÄwordleClone

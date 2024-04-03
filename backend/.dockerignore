@@ -1,0 +1,37 @@
+# Ignore common Python files and directories
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.py~
+
+# Ignore Django-specific files and directories
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.py~
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+
+# Ignore development-related files and directories
+*.env
+*.venv
+venv/
+.vscode/
+.idea/
+*.bak
+*.vscode
+
+# Ignore any build artifacts or dependencies
+node_modules/
+bower_components/

@@ -1,0 +1,9 @@
+# Ignore node_modules and any other built files or directories
+node_modules/
+build/
+dist/
+coverage/
+
+# Ignore development-related files and directories
+.vscode/
+.idea/
